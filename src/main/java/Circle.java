@@ -1,0 +1,6 @@
+class Circle extends Shape {
+    @Override
+    void getName() {
+        System.out.println("Круг");
+    }
+}
